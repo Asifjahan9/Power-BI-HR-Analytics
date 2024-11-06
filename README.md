@@ -7,25 +7,25 @@ This Power BI dashboard provides insights into employee attrition across departm
 
 🔍 **Key Metrics**
 
-    •	Total Number of Employees: Overall workforce size
+    •	Total Number of Employees: Overall workforce size - 1470
 
-    •	Sum of Attrition: Total number of employees who have left the company
+    •	Sum of Attrition: Total number of employees who have left the company - 238
 
-    •	Attrition Rate: Percentage of employees who have left the company
+    •	Attrition Rate: Percentage of employees who have left the company - 16.1%
 
-    •	Average Age, Monthly Income, and Working Years: Demographic and tenure information
+    •	Average Age, Avg Monthly Income: 37 & $6,500
 
 ** Attrition Analysis**
  
-    •	Attrition by Job Role: Identifies roles with higher attrition rates
+    •	Attrition by Job Role: Laboratory Technicians and Sales Representatives exhibit the highest attrition rates.
 
     •	Attrition Trends by Gender: Analyzes gender-based differences in attrition
 
-    •	Attrition by Education Field: Explores the impact of educational background on attrition
+    •	Attrition by Education Field: Explores the impact of educational background on attrition - Life Sciences graduates demonstrate higher attrition tendencies.
 
-    •	Attrition Trends across Age Groups and Salary Bands: Reveals patterns related to age and income
+    •	Attrition Trends across Age Groups and Salary Bands: The 26-35 age group experiences the most attrition rates and $5,000-$10,000 income range shows elevated attrition.
 
-    •	Attrition by Years at Company: Assesses the likelihood of attrition based on tenure
+    •	Attrition by Years at Company: Assesses the likelihood of attrition based on tenure - Early-career employees are more likely to leave.
 
 
 💡 **Key Technologies
